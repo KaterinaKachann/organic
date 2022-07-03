@@ -192,7 +192,7 @@ button:focus {
   .leaves-bg {
     display: none;
   }
-  .img-phone__first{
+  .img-phone__first {
     display: none;
   }
 }
@@ -213,7 +213,7 @@ button:focus {
   .way-order__text {
     margin-left: 80px;
   }
-  .footer-logo{
+  .footer-logo {
     width: 300px;
   }
 }
@@ -227,7 +227,7 @@ button:focus {
   .mobile-menu__item:not(last-child) {
     margin-right: 30px;
   }
-  .footer-logo{
+  .footer-logo {
     width: 100%;
     margin-bottom: 40px;
   }
@@ -432,7 +432,7 @@ button:focus {
 .image-one {
   width: 80%;
 }
-.explore-img{
+.explore-img {
   margin-right: 30px;
 }
 .explore-img img {
@@ -508,31 +508,31 @@ button:focus {
   display: flex;
   align-items: center;
 }
-.footer{
+.footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-.footer-logo img{
-margin-bottom: 30px;
+.footer-logo img {
+  margin-bottom: 30px;
 }
-.footer-menu h4{
+.footer-menu h4 {
   font-size: var(--font-size-four);
   color: var(--font-black);
   margin-bottom: 40px;
   cursor: pointer;
 }
-.footer-menu p{
+.footer-menu p {
   font-size: var(--font-size-five);
   color: var(--font-grey);
 }
-.footer-menu p{
+.footer-menu p {
   margin-bottom: 25px;
   cursor: pointer;
 }
-.list-contact{
+.list-contact {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
