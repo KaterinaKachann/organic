@@ -120,7 +120,7 @@ button:focus {
 
 .menu-item-link {
   color: var(--font-black);
-  font-family: var(--font-regular);
+  font-weight: var(--font-regular);
   font-size: var(--font-size-five);
 }
 .menu-item-link:hover {
@@ -315,7 +315,7 @@ button:focus {
   margin-bottom: 5%;
 }
 .text-subtitle {
-  font-weight: var(--font-size-five);
+  font-size: var(--font-size-five);
   color: var(--font-grey);
   z-index: 2;
   margin-bottom: 40px;
@@ -522,13 +522,8 @@ button:focus {
   font-size: var(--font-size-four);
   color: var(--font-black);
   margin-bottom: 40px;
-  cursor: pointer;
 }
-.footer-menu p {
-  font-size: var(--font-size-five);
-  color: var(--font-grey);
-}
-.footer-menu p {
+.footer-menu li{
   margin-bottom: 25px;
   cursor: pointer;
 }
